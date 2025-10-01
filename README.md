@@ -1,10 +1,12 @@
-# Vipeer
+# TON Viper
 
-![vipeer logo](/vipeer-logo.jpg)
+![ton-viper logo](/ton-viper-logo.jpg)
 
-**Vipeer** means Viper + Peer – a private messenger built on the decentralized transport layer of TON (ADNL protocol). 
+**TON Viper** – a private messenger built on the decentralized transport layer of TON (ADNL protocol). 
 
-It has a relay server that forwards messages between participants globally.
+**Viper** here represents rapidity, stealth, and flexibility.
+
+It uses a relay server to forward messages between participants globally.
 
 ## Highlights
 
