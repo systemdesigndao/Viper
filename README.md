@@ -1,8 +1,8 @@
-# de_viper messenger
+# Vipeer
 
-![de_viper messenger logo](/de_viper-messenger.jpg)
+![vipeer logo](/de_viper-messenger.jpg)
 
-**de_viper messenger** means Decentralized Viper Messenger, a private communication system on TON via the ADNL protocol.
+**Vipeer** means Viper + Peer – a private messenger built on the decentralized transport layer of TON (ADNL protocol). 
 
 It has a relay server that forwards messages between participants globally.
 
@@ -10,7 +10,7 @@ It has a relay server that forwards messages between participants globally.
 
 🔹 Chat anywhere – send messages across countries instantly.
 
-🔹 Encrypted messages – only you and your contact can read them.
+🔹 Encrypted messages – only you and your peer can read them; the relay does not know the content.
 
 🔹 No registration – just your private/public keys to start.
 
