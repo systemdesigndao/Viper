@@ -1,6 +1,6 @@
 # Vipeer
 
-![vipeer logo](/de_viper-messenger.jpg)
+![vipeer logo](/vipeer-logo.jpg)
 
 **Vipeer** means Viper + Peer – a private messenger built on the decentralized transport layer of TON (ADNL protocol). 
 
