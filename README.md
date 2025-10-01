@@ -1,10 +1,10 @@
-# TON Viper
+# sddao/viper
 
-![ton-viper logo](/ton-viper-logo.jpg)
+![sddao-viper logo](/sddao-viper-logo.jpg)
 
-**TON Viper** – a private messenger built on the decentralized transport layer of TON (ADNL protocol). 
+**sddao/viper** – a private messenger built on the decentralized transport layer of TON (ADNL protocol). 
 
-**Viper** here represents rapidity, stealth, and flexibility.
+**viper** here represents rapidity, stealth, and flexibility.
 
 It uses a relay server to forward messages between participants globally.
 
