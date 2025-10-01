@@ -1,8 +1,8 @@
-# sddao/viper
+# sddao-viper
 
 ![sddao-viper logo](/sddao-viper-logo.jpg)
 
-**sddao/viper** – a private messenger built on the decentralized transport layer of TON (ADNL protocol). 
+**sddao-viper** – a private messenger built on the decentralized transport layer of TON (ADNL protocol). 
 
 **viper** here represents rapidity, stealth, and flexibility.
 
