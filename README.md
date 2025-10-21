@@ -16,7 +16,7 @@ It uses a relay server to forward messages between participants globally.
 
 🔹 No registration – just your private/public keys to start.
 
-🔹 Simple and fast – command-line interface, lightweight and distraction-free.
+🔹 Simple and fast – command-line interface (Linux, MacOS, Windows), apps (macOS/iOS) lightweight and distraction-free.
 
 **Rolling Closed Beta** – currently in private testing with early adopters.  
 
